@@ -11,7 +11,7 @@ Dear """ + name + """,
 Thank you for attending the 43nd NUSSU Student Life Project Committee Recruitment Results, I appreciate you taking the time to consider us amongst the various student leadership opportunities in and out of NUS.
 
 1) Appointment Offer
-After much deliberation, I am pleased to offer you the position of """+ role
+After consulting with my fellow deputies, I am pleased to offer you the position of """+ role
 + """
 
 2) Acceptance of Appointment
@@ -21,7 +21,7 @@ Please respond to this email with your acceptance, by """ + date+ """, with the
 
 Thank you and I look forward to hearing from you.
 
-
+Please remember to reply to this email!
 
 
 """)
